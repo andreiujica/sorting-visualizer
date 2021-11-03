@@ -19,6 +19,10 @@ For more information take a look at the Demo video down below
 
 
 
+https://user-images.githubusercontent.com/46849514/140015646-b38433d7-fc98-47c2-b628-3eb36437a99c.mp4
+
+
+
 ### Built With
 
 This project is entirely developed in Python. The only library used was Pygame
